@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "krishna",
+      "email": "kkg765576@gmail.com",
+      "date": "5/6/2023",
+      "pass": "12345",
+      "id": 1
+    },
+    {
+      "name": "shivam Tiwari",
+      "email": "tiwari@gmail.com",
+      "date": "",
+      "pass": "1203",
+      "id": 2
+    }
+  ]
+}
